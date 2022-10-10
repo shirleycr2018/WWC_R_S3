@@ -1,0 +1,5 @@
+https://github.com/tidyverse/ggplot2
+https://es.r4ds.hadley.nz/visualizaci%C3%B3n-de-datos.html
+https://genomicsclass.github.io/book/pages/dplyr_tutorial.html
+https://rsanchezs.gitbooks.io/rprogramming/content/chapter9/index.html
+
